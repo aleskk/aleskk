@@ -1,5 +1,5 @@
 ### Olá me chamo Alexandre, sou programador junior e curso Sistemas de informação. 👋
-<img align="left" alt="Larissa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleskk&show_icons=true&hide_border=true&theme=dracula&count_private=true%22%3E
+<img align="left" alt="Alexandre GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleskk&show_icons=true&hide_border=true&theme=dracula&count_private=true%22%3E
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleskk&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
