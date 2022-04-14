@@ -18,7 +18,7 @@ Tenho vontade de aprender:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
 
 
-Porém essa lista está apenas no começo, espero poder aumentar muito ela, espero poder sempre estar atualizando-a 😊
+Porém essa lista está apenas no começo, espero poder sempre estar atualizando-a e aumentando seu tamanho😊
 
 <!--
 **aleskk/aleskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
