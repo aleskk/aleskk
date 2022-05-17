@@ -1,8 +1,6 @@
 ### Hello World!! 
  Me chamo Alexandre, sou programador junior e curso Sistemas de informação. 👨‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleskk&show_icons=true&theme=tokyonight&count_private=true)
-
 Costumo trabalhar com as seguintes linguagens:
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
