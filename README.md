@@ -17,9 +17,7 @@ Tenho vontade de aprender:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
 
-Porém essa lista está apenas no começo, espero poder sempre estar atualizando-a e aumentando seu tamanho😊
-
-![programmer-programming](https://user-images.githubusercontent.com/56649159/167699541-3441ca39-1501-4234-a3ba-9b7ffd5f2d56.gif)
+Porém essa lista está apenas no começo, espero poder sempre estar atualizando-a e aumentando seu tamanho
 
 <!--
 **aleskk/aleskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
